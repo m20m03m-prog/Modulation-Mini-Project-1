@@ -1,6 +1,5 @@
 # Modulation-Mini-Project-1
 
-# MMM 5162 Mini Project 1
 
 ## Two-Link Robot Pick-Cycle Kinematic Simulation
 
